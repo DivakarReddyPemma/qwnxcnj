@@ -1,7 +1,7 @@
 # Reflection Brief — Harness Engineering Capstone
 
-**Name:**
-**Date:**
+**Name:** Divakar Reddy Pemma
+**Date:** 2026-09-26
 
 Replace each `→` with your answer. **Every answer cites at least one artifact from your own runs** — a run ID, file path, token count, claim outcome, or test count. Uncited answers do not pass. 3–6 sentences each unless noted. Paste short artifact snippets where they help.
 
